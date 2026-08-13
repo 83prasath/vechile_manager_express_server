@@ -7,7 +7,7 @@
 * Framework: Express.js
 * Database: MongoDB
 
-## ## Project Structure
+## Project Structure
 
 * src/ - Source code
 * src/config/ - Configuration files
@@ -19,7 +19,7 @@
 * src/dao/ - Database interactions
 * server.js - Entry point
 
-## ## Architecture Patterns
+## Architecture Patterns
 
 * Follow a strict Controller-Service-Repository pattern.
 * Routes must only map to Controllers.
