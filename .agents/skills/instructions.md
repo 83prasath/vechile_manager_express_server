@@ -25,7 +25,8 @@
 * Routes must only map to Controllers.
 * Always generate swagger model for every newly added API.
 
-## ### Coding Style Examples## #### 1. Controller
+## Coding Style Examples
+#### 1. Controller
 
 const userDao = require('../dao/userDao');
 const authController = {
